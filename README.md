@@ -2,7 +2,7 @@
 
 Grimoire is a compilation of silly and interesting Python snippets I've written.
 
-> [!NOTE] \
+> [!NOTE]\
 > It is an empty repository for now, I will fill it later!
 
 ## Acknowledgements
